@@ -3,7 +3,7 @@
 **Học viên:** Mai Việt Anh  
 **Mã số:** 2A202601083  
 **Dự án LangSmith:** `day22-lab`  
-**LangSmith Project URL:** `https://smith.langchain.com/o/e538084e-fd85-4bc1-a1aa-d39f6ef1ae42/projects/p/day22-lab`  
+**LangSmith Project URL:** `https://smith.langchain.com/o/e538084e-fd85-4bc1-a1aa-d39f6ef1ae42/projects/p/62a40d7f-57d0-4bb3-9283-94c837d8a08a`  
 **Prompt Hub V1 URL:** `https://smith.langchain.com/prompts/mai-viet-anh-rag-v1`  
 **Prompt Hub V2 URL:** `https://smith.langchain.com/prompts/mai-viet-anh-rag-v2`  
 
