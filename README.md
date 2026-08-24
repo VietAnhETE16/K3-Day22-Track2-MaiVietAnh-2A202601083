@@ -1,5 +1,16 @@
 # Chào mừng các bạn đến với Day 22: LangSmith + Prompt Versioning
 
+> **Thông tin Nộp bài Lab:**
+> - **Học viên:** Mai Việt Anh
+> - **Mã số SV:** 2A202601083
+> - **GitHub Repository:** `https://github.com/VietAnhETE16/K3-Day22-Track2-MaiVietAnh-2A202601083`
+> - **LangSmith Project URL:** [https://smith.langchain.com/o/e538084e-fd85-4bc1-a1aa-d39f6ef1ae42/projects/p/day22-lab](https://smith.langchain.com/o/e538084e-fd85-4bc1-a1aa-d39f6ef1ae42/projects/p/day22-lab)
+> - **Prompt Hub V1:** [mai-viet-anh-rag-v1](https://smith.langchain.com/prompts/mai-viet-anh-rag-v1)
+> - **Prompt Hub V2:** [mai-viet-anh-rag-v2](https://smith.langchain.com/prompts/mai-viet-anh-rag-v2)
+> - **Báo cáo Bằng chứng & Phân tích:** Xem tại [evidence/README.md](evidence/README.md)
+
+---
+
 ## Tổng quan
 
 Trong lab này, bạn sẽ xây dựng một hệ thống hỏi đáp hoàn chỉnh tích hợp nhiều công nghệ AI hiện đại:
